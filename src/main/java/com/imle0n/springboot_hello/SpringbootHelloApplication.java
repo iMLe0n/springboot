@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootHelloApplication {
 
 	public static void main(String[] args) {
-		System.out.println("iMLe0n");
+		System.out.println("uiMLe0jnthrdhgdf ");
 		SpringApplication.run(SpringbootHelloApplication.class, args);
 	}
 }
